@@ -1,6 +1,5 @@
-### Hi there! 👋💗 I'm Tina 
 <p align="center">
-  <img img="portada.png" height="200"/>
+### Hi there! 👋💗 I'm Tina 
 </p>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 <!--
