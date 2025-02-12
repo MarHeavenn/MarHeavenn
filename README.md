@@ -1,20 +1,23 @@
-<h1 align="center">Hi Developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">(✿◠‿◠), I'm Tina Maria Torres Tascon</h1>
+<h1 align="center">Hi Developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">(✿◠‿◠)</h1>
+<!--Name-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d28ede27-d24a-4952-8cec-55d7738d1b13"/>
+</p>
+
 <h3 align="center">Software Engineer |  Industrial Electronics Technologist | (In progress...) </h3>
 
 ## <picture> <img src = "https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width = 30px>  </picture> Talking about me
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :school: I am a `Junior` at [Universidad del valle](https://www.univalle.edu.co/) in [Colombia](https://es.wikipedia.org/wiki/Colombia)
+- :trophy: `2024 JORE WINNER` First-place winner at JORE (Regional Olympic Electronics Conference) in the [BOT GOAL HAT-TRICK competition](https://tulua.univalle.edu.co/noticias/item/164-administracion-de-empresas-renueva-su-registro-calificado) – a two-player soccer robot elimination round, being the one who designed both the hardware and software of the robot. 🤖⚽
+- :technologist: **Currently focusing on** `Frontend Development` , `Artificial Intelligence`, `Cibersecurity` **&** `microcontrollers`
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=TinaTorres&amp;color=b833ff&amp;style=flat-square)](tina.torres@correounivalle.edu.co)
+- :nerd_face: Always believe `"God is Good"`
 
 <!--Image-->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/864c88d6-ff24-4378-bb0a-3ad452bc2c81"/>
 </p>
-
 
 
 <div id="user-content-toc">
