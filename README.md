@@ -1,4 +1,8 @@
 <h1 align="center">Hi There! I'm Tina Maria Torres</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9151c9e6-6cb3-4e72-a6e2-fa5ea6ad2243" height="200"/>
+</p>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs...
 <!--
 **MarHeavenn/MarHeavenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
