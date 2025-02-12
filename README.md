@@ -1,4 +1,4 @@
-### Hi there! 👋💗 I'm Tina but you can call me Mar~
+### Hi there! 👋💗 I'm Tina 
 
 <!--
 **MarHeavenn/MarHeavenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
