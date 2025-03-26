@@ -47,6 +47,10 @@
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Status
+![](https://github-readme-stats.vercel.app/api?username=vicmaHo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vicmaHo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmaHo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **MarHeavenn/MarHeavenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
